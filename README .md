@@ -1,5 +1,4 @@
 # 🍔 Food Delivery Growth & Retention Analytics — SQL
-
 **Author:** Zubair Ahmed
 **Tools:** SQL Server (T-SQL)
 **Focus:** Customer acquisition, retention, promo effectiveness, and growth-team reporting
