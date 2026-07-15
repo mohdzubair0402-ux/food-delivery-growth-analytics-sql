@@ -1,2 +1,1 @@
-# SQL-Project--1
-Restaurant data
+food-delivery-growth-analytics-sql
